@@ -193,7 +193,7 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>𝐑=ᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<blockquote>❍ <b>𝗧-𝗦𝗲𝗿𝗶𝗲𝘀 𝗢𝗻 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴</b></blockquote>\n\n<b><blockquote>❍ ʟʏʀɪᴄ •</b> <a href={0}>{1}</a>\n<b>❍ ᴛɪᴍᴇ •</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ •</b> {3}\n\n**❖ ᴘᴏᴡᴇʀᴇᴅ  ➥[ᴛ-sᴇʀɪᴇs™](https://t.me/Tseries_update)</blockquote>"
+stream_1 : "<blockquote>❍ <b>𝗧-𝗦𝗲𝗿𝗶𝗲𝘀 𝗢𝗻 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴</b></blockquote>\n<b><blockquote>❍ ʟʏʀɪᴄ •</b> <a href={0}>{1}</a>\n<b>❍ ᴛɪᴍᴇ •</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ •</b> {3}\n**❖ ᴘᴏᴡᴇʀᴇᴅ  ➥[ᴛ-sᴇʀɪᴇs™](https://t.me/Tseries_update)</blockquote>"
 stream_2 : "<blockquote>❍ <b>𝗧-𝗦𝗲𝗿𝗶𝗲𝘀 𝗢𝗻 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴</b></blockquote>\n\n<b><blockquote>❍ sᴛʀᴇᴀᴍ ᴛʏᴘᴇ •</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>❍ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ •</b> {0}\n\n**❖ ᴘᴏᴡᴇʀᴇᴅ  ➥[ᴛ-sᴇʀɪᴇs™](https://t.me/Tseries_update)**</blockquote>"
 
 
@@ -213,9 +213,9 @@ S_B_8 : "• ʏᴏᴜ-ᴛᴜʙᴇ •"
 S_B_9 : "• sᴜᴘᴘᴏꝛᴛ •"
 S_B_10 : "𝗣𝗹𝗮𝘆 𝗧-𝗦𝗲𝗿𝗶𝗲𝘀 𝗜𝗻 𝗚𝗿𝗼𝘂𝗽"
 S_B_11 : "˹ ❍ᴡɴᴇꝛ ˼"
-S_B_13 : "˹ 𝗠𝗼𝗱𝗲 ˼"
+S_B_13 : "˹ 𝗠𝗢𝗗𝗘 ˼"
 S_B_12 : "˹ 𝗔𝗕𝗢𝗨𝗧 ˼"
-S_B_13 : "𝗬𝗢𝗨𝗧𝗨𝗕𝗘"
+S_B_14 : "𝗬𝗢𝗨𝗧𝗨𝗕𝗘"
 
 
 #Playlist
