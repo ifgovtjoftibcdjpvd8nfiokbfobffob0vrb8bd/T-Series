@@ -20,7 +20,7 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_13"],
+                text=_["S_B_14"],
                 url=f"https://youtube.com/@tseries?si=y7I_dU7yjiBbjG3V",
             )
         ],
