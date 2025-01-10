@@ -20,15 +20,18 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_10"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                text=_["𝗬𝗢𝗨𝗧𝗨𝗕𝗘"],
+                url=f"https://youtube.com/@tseries?si=y7I_dU7yjiBbjG3V",
             )
         ],
-        [InlineKeyboardButton(text=_["S_B_11"], user_id=config.OWNER_ID),
+        [InlineKeyboardButton(text=_["S_B_12"], callback_data=f"abot_cb"),
             InlineKeyboardButton(text=_["S_B_13"], callback_data=f"ubot_cb"),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_12"], callback_data=f"abot_cb"),
+            InlineKeyboardButton(
+                text=_["S_B_10"],
+                url=f"https://t.me/{app.username}?startgroup=true",
+            )
         ],
     ]
     return buttons
